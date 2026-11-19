@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Contrib Hub - Negócios, Carreira & Estudos",
+  "description": "Varredura e curadoria inteligente de projetos open-source no GitHub para alavancar carreira, negócios e estudos com guias práticos de contribuição.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
